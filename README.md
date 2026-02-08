@@ -33,3 +33,6 @@ Sistem, eklediğiniz RSS linklerini asenkron olarak fetch eder. Tarayıcıların
 ---
 ### RSS Kaynak
 https://gist.github.com/e-budur/983d969c0f6cf756bbbb60a2892aa964
+
+###info
+Created with Vibe Coding
